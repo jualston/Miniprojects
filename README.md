@@ -27,9 +27,9 @@
 
 </style>
 
-<div class = "myDiv" 
+
+<div class="myDiv"
   <h2>Menu Directory:</h2>
-  
   <ul>
  <li> <a href="#profile_page">Click here for profile info.</a> </li>
  <li> <a href="#education_summary">Click here for my education summary.</a> </li>
