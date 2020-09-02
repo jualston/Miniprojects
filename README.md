@@ -28,7 +28,7 @@
 </style>
 
 
-<div class="goldborder"
+<div class="goldborder">
   <h2>Menu Directory:</h2>
   <ul>
  <li> <a href="#profile_page">Click here for profile info.</a> </li>
@@ -41,10 +41,9 @@
  </ul>
 </div>
 
-<div class="goldborder"
+<div class="goldborder">
   <a id="profile_page">.</a>
   <h2>Welcome to my profile page</h2>
-
   <p>Name: Julius Alston     Major: Computer Science      Year:Senior.</p>
 </div>
 
