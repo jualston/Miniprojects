@@ -116,7 +116,7 @@
 <li> Stream on Twitch</li>
 <li> Hiking(Summer)</li>
 <li> Code</li>
-<p> Twitch clip: <video width="360" height="300" controls>
+<p> Twitch clip: <video width="400" height="350" controls>
   <source src=" vod-707438149-offset-21798.mp4
 " type="video/mp4">
  </video> </p>
