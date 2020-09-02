@@ -50,7 +50,7 @@
 
 <title>Julius Alston Profile</title>
 
-<a href="<img src="headshot.jpg" alt="Me">" alt="headshot"class= "center"  border=0px    witdh= 300 height= 400></a>
+ <img src="headshot.jpg" alt="Paris" class="center"  border=0px   witdh= 300 height= 400>
 <div class="goldborder">
 <a id="education_summary">.</a>
 <h2>Education summary:</h2>
