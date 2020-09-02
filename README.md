@@ -50,7 +50,7 @@
 
 <title>Julius Alston Profile</title>
 
-<a href="https://ibb.co/XX8cJwZ"><img src="https://i.ibb.co/Q9dym5F/headshot.jpg" alt="headshot"class= "center"  border=0px    witdh= 300 height= 400></a>
+<a href="<img src="headshot.jpg" alt="Me">" alt="headshot"class= "center"  border=0px    witdh= 300 height= 400></a>
 <div class="goldborder">
 <a id="education_summary">.</a>
 <h2>Education summary:</h2>
