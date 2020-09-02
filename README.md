@@ -117,7 +117,8 @@
 <li> Hiking(Summer)</li>
 <li> Code</li>
 <p> Twitch clip: <video width="320" height="240" controls>
-  <source src="mkclip.mp4" type="video/mp4">
+  <source src=" vod-707438149-offset-21798.mp4
+" type="video/mp4">
  </video> </p>
  <p> 
  Favorite TV show:  <iframe width="360" height="300" src="https://www.youtube.com/embed/gIKPC-JE2E0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
