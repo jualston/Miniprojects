@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+
 <html>
 <head>
 <style>
@@ -19,14 +20,16 @@
 }
 .goldborder {
   border: 4px outset black;
-  background-color: purple;    
+  background-color: violet;    
   text-align: center;
   border-style: groove;
 }
 
 </style>
-<div class="myDiv">
+
+<div class = "mydiv" 
   <h2>Menu Directory:</h2>
+  
   <ul>
  <li> <a href="#profile_page">Click here for profile info.</a> </li>
  <li> <a href="#education_summary">Click here for my education summary.</a> </li>
@@ -37,10 +40,11 @@
 <li>   <a href="#project_history">Click here to see all of my projects this semester</a> </li>
  </ul>
 </div>
+
 <div class="myDiv"
-<a href=
-  <h2>Welcome to my profile page</h2>
   <a id="profile_page">.</a>
+  <h2>Welcome to my profile page</h2>
+
   <p>Name: Julius Alston     Major: Computer Science      Year:Senior.</p>
 </div>
 
@@ -57,7 +61,7 @@
 
 
 <p> My only education expereinces fall under K-12 and Undergraduate.</p>
-<ul 
+<ul> 
 <li> Degree/Diplomas: </li>
 <li> High School Diploma </li>
 <li> (May 2021) Degree:Bacherlors in Computer Science </li>
@@ -144,8 +148,3 @@
 
 </ul>
 
-
-
-
-</body>
-</html>
