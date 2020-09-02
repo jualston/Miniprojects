@@ -27,7 +27,7 @@
 
 </style>
 
-<div class = "mydiv" 
+<div class = "myDiv" 
   <h2>Menu Directory:</h2>
   
   <ul>
@@ -125,7 +125,7 @@
  </p>
  <p> Favorite Song: <iframe width="360" height="300" src="https://www.youtube.com/embed/ZPCAvzIFY-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
  <p> Favorite movie:<iframe width="360" height="300" src="https://www.youtube.com/embed/WR7cc5t7tv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
-</p>
+
 
 <div class="goldborder">
 <h2> Most used Websites:</h2>
