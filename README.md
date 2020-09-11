@@ -70,7 +70,7 @@
 </div>
 
 <hr> 
-
+<div class="extable">
 <table style="width:100%">
   <tr>
     <th>Company:</th>
