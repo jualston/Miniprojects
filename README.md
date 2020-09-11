@@ -2,6 +2,9 @@
 
 <html>
 <head>
+   <link rel="stylesheet" href="flame.css ">  
+  <link rel="stylesheet" href="supermedia.css">
+   <link rel="stylesheet" href="webtable.css "> 
 <style>
 .center {
   display: block;
@@ -18,12 +21,7 @@
   text-align: center;
   border-style: groove;
 }
-.goldborder {
-  border: 4px outset black;
-  background-color: violet;    
-  text-align: center;
-  border-style: groove;
-}
+
 
 </style>
 
