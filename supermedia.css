@@ -8,7 +8,7 @@ body{
 background-color: black;
 }
 
-  @media (min-width:75px){
+  @media (min-width:75px)and(max-width: 100px){
 body{
 background-color:yellow;
 }
