@@ -27,12 +27,12 @@
  <div id="demotext">Main Menu</div>
   <ul>
  <li> <a href="#profile_page"><div id="demotext">Click here to view Profile</div></a> </li>
- <li> <a href="#education_summary">Click here for my education summary.</a> </li>
-<li>  <a href="#work_experience">Click here for my work experience.</a> </li>
- <li> <a href="#program_knowledge">Click here for my program knowledge .</a> </li>
- <li> <a href="#personal_interest">Click here to see my personal hobbies and personal favorites.</a> </li>
-<li>  <a href="#websites_used">Click here to see what sites i spend the most time on.</a> </li>
-<li>   <a href="#project_history">Click here to see all of my projects this semester</a> </li>
+ <li> <a href="#education_summary"><div id="demotext">Click here for my education summary</div></a> </li>
+<li>  <a href="#work_experience"><div id="demotext">Click here to see my work experience</div></a> </li>
+ <li> <a href="#program_knowledge"><div id="demotext">Click here for my program knowledge/div></a> </li>
+     <li> <a href="#personal_interest"><div id="demotext">Click here to for my Hobbies and personal favorites</div></a> </li>
+<li>  <a href="#websites_used"><div id="demotext">Click here for my most used websites</div></a> </li>
+<li>   <a href="#project_history"><div id="demotext">Click here to see all of my projects</div></a> </li>
  </ul>
 </div>
 
@@ -137,7 +137,7 @@
 </div>
 <a id="project_history">.</a>
 <ul>
-<li> class="casper" <a href="https://rkileaders.teachable.com/courses/764038/lectures/13897368" target="_blank">Project 01 info</a></li>
+<li>  <a href="https://rkileaders.teachable.com/courses/764038/lectures/13897368" target="_blank">Project 01 info</a></li>
 <li><a href="https://jualston.github.io/wingit/#education_summary" target="_blank">Assignment 01 - Milestone 01: Implement a profile page</a></li>
 
 
