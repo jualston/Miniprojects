@@ -27,7 +27,7 @@
 
 
 <div class="goldborder">
- <div id="demotext">Edit this text</div>
+ <div id="demotext">Main Menu</div>
   <ul>
  <li> <a href="#profile_page">Click here for profile info.</a> </li>
  <li> <a href="#education_summary">Click here for my education summary.</a> </li>
@@ -41,7 +41,7 @@
 
 <div class="goldborder">
   <a id="profile_page">.</a>
-  <h2>Welcome to my profile page</h2>
+  <div id="demotext">Welcome to my Profile Page:</div>
   <p>Name: Julius Alston     Major: Computer Science      Year:Senior.</p>
 </div>
 
@@ -51,7 +51,7 @@
  <img src="headshot.jpg" alt="Paris" class="center"  border=0px   witdh= 300 height= 400>
 <div class="goldborder">
 <a id="education_summary">.</a>
-<h2>Education summary:</h2>
+ <div id="demotext">Education Summary:</div>
 </div>
 
 
@@ -94,7 +94,7 @@
 </table>
 <div class="goldborder">
 <a id="program_knowledge"></a>
-<h2>Programming Skills:</h2>
+ <div id="demotext">Programming Skills:</div>
 </div>
 
 <ul> Programming languages: 
@@ -105,7 +105,7 @@
 </ul>
 <div class="goldborder">
 <a id="personal_interest"></a>
-<h2>Personal Interest/Favorite things in life:</h2> 
+ <div id="demotext">Personal Interest/Favorite things in life:</div>
 </div>
 
 <p> I like to call myself a dabbler because i tried alot out and ended up liking it. The main things i do though:
@@ -126,7 +126,7 @@
 
 
 <div class="goldborder">
-<h2> Most used Websites:</h2>
+ <div id="demotext">Most Used Websites:</div>
 </div>
 <a id="websites_used">.</a>
 <ul> 
@@ -136,8 +136,7 @@
 </ul>
 <div class="goldborder">
 
-<h2>Project History:</h2>
-
+ <div id="demotext">Project History:</div>
 </div>
 <a id="project_history">.</a>
 <ul>
