@@ -6,6 +6,7 @@
    <link rel="stylesheet" href="flame.css ">  
   <link rel="stylesheet" href="supermedia.css">
    <link rel="stylesheet" href="webtable.css "> 
+    <link rel="stylesheet" href="remobile.css "> 
 <style>
 .center {
   display: block;
