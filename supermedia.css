@@ -3,9 +3,19 @@
 display: none;
 }
 }
-@media (min-width:360px)and (max-width: 1080px){
+@media (min-width:700px)and (max-width: 1080px){
 body{
 background-color: magenta;
 }
+@media (min-width:440px){
+body{
+background-color:yellow;
+}
+  @media (min-width:100px){
+body{
+background-color:black;
+}
+
+
 }
 
