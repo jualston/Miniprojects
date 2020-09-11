@@ -7,10 +7,7 @@ display: none;
 body{
 background-color: magenta;
 }
-@media (min-width:440px){
-body{
-background-color:yellow;
-}
+
   @media (min-width:100px){
 body{
 background-color:black;
