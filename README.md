@@ -2,6 +2,7 @@
 
 <html>
 <head>
+   <script src="https://kit.fontawesome.com/45ecd2605d.js" crossorigin="anonymous"></script>
    <link rel="stylesheet" href="flame.css ">  
   <link rel="stylesheet" href="supermedia.css">
    <link rel="stylesheet" href="webtable.css "> 
@@ -130,9 +131,9 @@
 </div>
 <a id="websites_used">.</a>
 <ul> 
-<li><a href="https://www.Twitter.com/" target="_blank">Twitter</a> </li>
-<li><a href="https://www.Twitch.tv/Euphony.com/" target="_blank">Twitch</a> </li>
-<li><a href="https://www.youtube.com/" target="_blank">Definitley Youtube!</a> </li>
+<li><i class="fab fa-twitch"></i><a href="https://www.Twitter.com/" target="_blank">Twitter</a> </li>
+<li><i class="fab fa-twitter"></i><a href="https://www.Twitch.tv/Euphony.com/" target="_blank">Twitch</a> </li>
+<li><i class="fab fa-youtube"></i><a href="https://www.youtube.com/" target="_blank">Definitley Youtube!</a> </li>
 </ul>
 <div class="goldborder">
 
