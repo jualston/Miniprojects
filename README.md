@@ -141,7 +141,7 @@
 </div>
 <a id="project_history">.</a>
 <ul>
-<li><a href="https://rkileaders.teachable.com/courses/764038/lectures/13897368" target="_blank">Project 01 info</a></li>
+<li>class="casper"<a href="https://rkileaders.teachable.com/courses/764038/lectures/13897368" target="_blank">Project 01 info</a></li>
 <li><a href="https://jualston.github.io/wingit/#education_summary" target="_blank">Assignment 01 - Milestone 01: Implement a profile page</a></li>
 
 
