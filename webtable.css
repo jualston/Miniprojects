@@ -17,4 +17,9 @@ background-color: #D0CEDF;
 }
 
 .extable>table tr:nth-child(odd) {
-background-color: #C257FC;
+background-color: lightgrey;
+}
+
+.extable>table tr:hover{
+  background-color: #6f278a;
+}
