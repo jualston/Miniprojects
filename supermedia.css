@@ -3,12 +3,12 @@
 display: none;
 }
 }
-@media (min-width:700px){
+@media (min-width:500px){
 body{
-background-color: magenta;
+background-color: yellow;
 }
 
-  @media (min-width:100px){
+  @media (min-width:360px){
 body{
 background-color:black;
 }
