@@ -17,12 +17,7 @@
   
 }
 
-.myDiv {
-  border: 4px outset black;
-  background-color: violet;    
-  text-align: center;
-  border-style: groove;
-}
+
 
 
 </style>
@@ -31,7 +26,7 @@
 <div class="goldborder">
  <div id="demotext">Main Menu</div>
   <ul>
- <li> <a href="#profile_page">Click here for profile info.</a> </li>
+ <li> <a href="#profile_page"><div id="demotext">Click here to view Profile</div></a> </li>
  <li> <a href="#education_summary">Click here for my education summary.</a> </li>
 <li>  <a href="#work_experience">Click here for my work experience.</a> </li>
  <li> <a href="#program_knowledge">Click here for my program knowledge .</a> </li>
