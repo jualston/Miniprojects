@@ -65,7 +65,7 @@
 </ul>
 <div class="goldborder">
 <a id="work_experience">.</a>
-<h2>Work/Internship Experience:</h2>
+<div id="demotext">Work Experience:</div>
 </div>
 
 <hr> 
