@@ -1,6 +1,6 @@
 @media print{
-.superflex{
-display: flex;
+.casper{
+display: none;
 }
 }
 @media (min-width:360px)and (max-width: 1080px){
