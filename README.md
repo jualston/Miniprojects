@@ -54,7 +54,7 @@
 
 
 
-<p> My only education expereinces fall under K-12 and Undergraduate.</p>
+<p>class="casper" My only education expereinces fall under K-12 and Undergraduate.</p>
 <ul> 
 <li> Degree/Diplomas: </li>
 <li> High School Diploma </li>
