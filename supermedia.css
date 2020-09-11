@@ -1,0 +1,11 @@
+@media print{
+.superflex{
+display: flex;
+}
+}
+@media (min-width:360px)and (max-width: 1080px){
+body{
+background-color: magenta;
+}
+}
+
