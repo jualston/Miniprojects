@@ -34,7 +34,7 @@
 <li>  <a href="#websites_used"><div id="demotext">Click here for my most used websites</div></a> </li>
 <li>   <a href="#project_history"><div id="demotext">Click here to see all of my projects </div></a> </li>
 
-</div>
+
 
 <div class="goldborder">
   <a id="profile_page">.</a>
