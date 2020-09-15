@@ -29,11 +29,11 @@
  <li> <a href="#profile_page"><div id="demotext">Click here to view Profile</div></a> </li>
  <li> <a href="#education_summary"><div id="demotext">Click here for my education summary</div></a> </li>
 <li>  <a href="#work_experience"><div id="demotext">Click here to see my work experience</div></a> </li>
- <li> <a href="#program_knowledge"><div id="demotext">Click here for my program knowledge/div></a> </li>
+ <li> <a href="#program_knowledge"><div id="demotext">Click here for my program knowledge</div> </a> </li>
      <li> <a href="#personal_interest"><div id="demotext">Click here to for my Hobbies and personal favorites</div></a> </li>
 <li>  <a href="#websites_used"><div id="demotext">Click here for my most used websites</div></a> </li>
-<li>   <a href="#project_history"><div id="demotext">Click here to see all of my projects</div></a> </li>
- </ul>
+<li>   <a href="#project_history"><div id="demotext">Click here to see all of my projects </div></a> </li>
+
 </div>
 
 <div class="goldborder">
