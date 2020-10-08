@@ -13,7 +13,8 @@
 <link rel="stylesheet" href="flame.css ">  
    <link rel="stylesheet" href="fonts.css ">  
    <link rel="stylesheet" href="webtable.css "> 
-
+  <link rel="stylesheet" href="todolist.css "> 
+     <script src="tasklist.js"></script> 
   <style>
 .center {
   display: block;
@@ -65,7 +66,7 @@
     </li>
   </ul>
       <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown navbar-dark">
         Project 2
       </a>
       <div class="dropdown-menu">
@@ -206,6 +207,21 @@
     <button type="submit" class="btn btn-dark">Submit</button>
   </form>
 </div>
+   <div id="myDIV" class="header">
+  <h2 style="margin:5px">My To Do List</h2>
+  <input type="text" id="myInput" placeholder="Insert task">
+  <input type="number" id="myInput1" placeholder="Insert Priority Number (1 being lowest to 3 being highest) ">
+  <span onclick="newElement()" class="addBtn">Add</span>
+</div>
+
+<ul id="myUL">
+  <li>Hit the gym</li>
+  <li class="checked">Pay bills</li>
+  <li>Meet George</li>
+  <li>Buy eggs</li>
+  <li>Read a book</li>
+  <li>Organize office</li>
+</ul>
     
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
