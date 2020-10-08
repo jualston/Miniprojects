@@ -1,5 +1,4 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
+
 body {
   margin: 0;
   min-width: 250px;
@@ -120,6 +119,4 @@ input {
 .addBtn:hover {
   background-color: #bbb;
 }
-</style>
-</head>
-<body>
+
