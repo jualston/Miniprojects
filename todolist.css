@@ -74,7 +74,7 @@ ul li.checked::before {
 }
 
 /* Style the header */
-.header {
+.header1 {
   background-color: #f4a3dc;
   padding: 30px 40px;
   color: white;
