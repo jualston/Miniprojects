@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded', function() {
 var myNodelist = document.getElementsByTagName("LI");
 var i;
 for (i = 0; i < myNodelist.length; i++) {
@@ -75,4 +76,5 @@ function newElement() {
       div.style.display = "none";
     }
   }
+}
 }
